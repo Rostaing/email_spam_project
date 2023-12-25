@@ -1,0 +1,1 @@
+The primary objective of this dataset is to develop machine learning models capable of automatically classifying emails as spam or non-spam, thereby contributing to the protection of users against unwanted emails.
